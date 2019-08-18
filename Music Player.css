@@ -1,6 +1,6 @@
 #player,#player a{ color:#000000;  font-size: 11px; font-family: verdana;}
-#player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;}
-#player .mainImage{ background:url(http://static.tumblr.com/su8juwr/5kpmpp30c/playboy.png); }
+#player{ background:url(https://66.media.tumblr.com/677acebb012f8918b5f8225fbe00b459/tumblr_pwfd9mFjF81ytfrnlo1_640.png); background-position:bottom; background-color: #FFFFFF;}
+#player .mainImage{ background:url(https://66.media.tumblr.com/2d7b63e80cf2b2a5c1684e14007711d9/tumblr_pwfd92L1Fl1ytfrnlo1_400.png); }
 
 #player #baseLeft{ width:93px; } 
 #player #baseRight{ width:145px;} 
@@ -20,11 +20,11 @@
 #player #seekerSliderBase{ background-color:#000000; }
 
 #player #volume{ width:65px; right:39px; } 
-#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); }
+#player #volumeSlider{ width:8px; background:url(https://66.media.tumblr.com/677acebb012f8918b5f8225fbe00b459/tumblr_pwfd9mFjF81ytfrnlo1_640.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
 #playlist .module{  color:#000000; background-color:#FFFFFF; }
-#playlist h3{ background:url(http://static.tumblr.com/su8juwr/7nJmlnz49/pensamentos-antigos.jpg); color:#000000; background-color:#FFFFFF;  }
+#playlist h3{ background: color:#000000; background-color:#FFFFFF;  }
 #playlist .even{background-color:#fff;}
 #playlist .odd{ background-color:#fff;}
 #playlist .focus{ background-color:#fff; color:#aaa;} 
